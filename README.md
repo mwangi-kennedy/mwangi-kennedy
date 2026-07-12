@@ -26,8 +26,12 @@ As a former Product Development Team Lead at the Guild Code Community, I develop
 * **Algorithmic Efficiency:** I thrive on digging into databases, optimizing SQL query performance and handling raw, heavy data structures to build clean, real-time API integrations.
 * **Fluid User Experiences:** I treat interfaces as living ecosystems, ensuring every administrative panel, transaction flow, and mobile dashboard is accessible, responsive and completely friction-free for the end-user.
 
+###  Current Focus
+I am currently engineering the **Angaza Awards Website**, a dedicated digital platform built for identifying, recognizing talents, and celebrating men and women who are impacting society positively and shining a light to them.
+* **Tech Stack:** React.js (Vite), TailwindCSS, Node.js, Express.js, PostgreSQL, Render, Vercel
+
 ###  Beyond the Terminal
-When I am not tracing server logs, training models or structuring design systems, you will find me pushing my limits out on the road as an avid long-distance cyclist, deep into a book, or exploring the next frontier of tech automation.
+When I am not tracing server logs, coding, training models or structuring design systems, you will find me pushing my limits out on the road as an avid long-distance cyclist, deep into a book, or exploring the next frontier of tech automation.
 
 ---
 
